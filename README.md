@@ -6,7 +6,11 @@ Welcome to the GitHub guidance wiki for Indian Affairs! This is the jump-off poi
 ***
 
 GitHub Windows Software [approved](https://doimspp.sharepoint.com/sites/doi-asia-oimt-dpmbs/cm/Lists/IA_Approved_Software/AllItems.aspx) for use:
-- GitKraken Desktop
-- GitHub Desktop
-- IntelliJ IDEA
+- [GitKraken Desktop](https://www.gitkraken.com)
+  - License Required 
+- [GitHub Desktop](https://desktop.github.com/)
+  - Freeware
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  -  Freeware
 - Microsoft Team Foundation Server
+  - License Required
